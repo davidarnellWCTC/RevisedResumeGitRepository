@@ -1,0 +1,59 @@
+/* 
+    Created on : Aug 29, 2016, 6:08:29 PM
+    Author     : David Arnell
+test
+*/
+
+
+#backgroundGradient {
+    background: linear-gradient(white, lightgreen);
+}
+
+#container{
+    background-color:lightblue;
+    width:100%;
+    text-align:center;
+}
+
+#contact {
+    /*background-color:white;*/
+    background-color:lightblue;
+    color:black;
+    text-align:right;
+    padding:5px;
+    float:right;
+    /*width:100px;*/
+}
+
+#header {
+    background-color:lightblue;
+    color:white;
+    text-align:center;
+    display: inline-block;
+    margin:0 auto;
+    /*width:100px;*/
+    /*margin:0 auto;width:100px;*/
+    padding:1%;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:450px;
+    width:10%;
+    float:left;
+    padding:1%;
+}
+.section {
+    width:40%;
+    float:left;
+    padding:1%;	 	 
+}
+#footer {
+    background-color:lightblue;
+    color:white;
+    clear:both;
+    text-align:left;
+   padding:1%;	 	 
+}
+
+
